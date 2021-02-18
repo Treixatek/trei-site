@@ -1,0 +1,18 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.green-box-message {
+    background-color: #13D3DC;
+    display: inline-block;
+    padding: 0 10px;
+    border-radius: 37px;
+    color: white;
+
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    align-items: center;
+    text-align: center;
+}
