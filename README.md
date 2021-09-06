@@ -1,22 +1,3 @@
-# treixatekwebsite
-
-> Game Development
-
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm run install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+# Personal Site
+welp took it down a while back after the codebase got to messy to work on, ay man it was the first web thing i made so i feel like that's a decent enough excuse :D
+at least it had its year of fame
