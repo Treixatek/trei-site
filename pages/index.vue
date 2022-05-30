@@ -7,7 +7,8 @@
           <!-- The container for the the welcome to/title/buttons on the landing page-->
           <div class="titleSecContainer">
             <p class="green-box-message">Welcome To</p>
-            <h1>Treixatek</h1>
+            <h1 class="bold-Header">Treixatek</h1>
+            <p class="subtitle-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget vulputate varius sagittis.</p>
             <div></div>
             <div class="titlebox">
 

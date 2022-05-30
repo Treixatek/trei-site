@@ -2,6 +2,23 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
+.bold-Header {
+    color: white;
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 87px;
+}
+
+.subtitle-para{
+    width: 425px;
+
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: #F2F4F8;
+}
+
 .green-box-message {
     background-color: #13D3DC;
     display: inline-block;
@@ -15,4 +32,5 @@ body {
     line-height: 27px;
     align-items: center;
     text-align: center;
+    text-transform: uppercase;
 }
